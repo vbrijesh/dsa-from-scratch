@@ -27,10 +27,97 @@ Whether you're preparing for coding interviews, system design rounds, or upskill
 
 ## 🛠️ Folder Structure
 
+dsa-10day-mastery/
+│
+├── Day01_Arrays_Strings/
+│   ├── src/
+│   │   └── arrays/
+│   │       ├── ReverseArray.java
+│   │       ├── MoveZeroes.java
+│   │       └── AnagramCheck.java
+│   └── notes.md
+│
+├── Day02_LinkedList/
+│   ├── src/
+│   │   └── linkedlist/
+│   │       ├── ReverseLinkedList.java
+│   │       ├── DetectCycle.java
+│   │       └── MergeSortedLists.java
+│   └── notes.md
+│
+├── Day03_Stacks_Queues/
+│   ├── src/
+│   │   └── stackqueue/
+│   │       ├── ValidParentheses.java
+│   │       ├── MinStack.java
+│   │       └── QueueUsingStacks.java
+│   └── notes.md
+│
+├── Day04_Hashing/
+│   ├── src/
+│   │   └── hashing/
+│   │       ├── TwoSum.java
+│   │       ├── LongestUniqueSubstring.java
+│   │       └── GroupAnagrams.java
+│   └── notes.md
+│
+├── Day05_Recursion_Backtracking/
+│   ├── src/
+│   │   └── recursion/
+│   │       ├── Subsets.java
+│   │       ├── NQueens.java
+│   │       └── SudokuSolver.java
+│   └── notes.md
+│
+├── Day06_Trees/
+│   ├── src/
+│   │   └── trees/
+│   │       ├── InorderTraversal.java
+│   │       ├── MaxDepth.java
+│   │       └── DiameterOfTree.java
+│   └── notes.md
+│
+├── Day07_BST/
+│   ├── src/
+│   │   └── bst/
+│   │       ├── SearchBST.java
+│   │       ├── KthSmallest.java
+│   │       └── ValidateBST.java
+│   └── notes.md
+│
+├── Day08_Heaps_PriorityQueue/
+│   ├── src/
+│   │   └── heaps/
+│   │       ├── KthLargest.java
+│   │       ├── MergeKSortedLists.java
+│   │       └── FindMedian.java
+│   └── notes.md
+│
+├── Day09_Graphs/
+│   ├── src/
+│   │   └── graphs/
+│   │       ├── BFS.java
+│   │       ├── DFS.java
+│   │       └── TopologicalSort.java
+│   └── notes.md
+│
+├── Day10_Tries_Revision/
+│   ├── src/
+│   │   └── tries/
+│   │       ├── TrieImplementation.java
+│   │       ├── AutocompleteSystem.java
+│   │       └── WordSearchII.java
+│   └── notes.md
+│
+├── README.md                       # Main project overview
+├── resources.md                    # Links to playlists, sheets, books, etc.
+└── .gitignore                      # Java-specific gitignore
+
+
 
 Each folder contains:
 - `notes.md`: Concepts & patterns
-- `problems/`: Java/Python/C++ solutions with comments
+- `problems/`: Java solutions with comments
 
 ---
 
